@@ -1,4 +1,4 @@
-![logo](https://github.com/Piyushpande08/Piyushpandey08/blob/main/image1.png)
+![logo](https://github.com/Piyushpande08/Piyushpande08/blob/main/image1.png)
 <h1 align="center">Hi 👋, I'm Piyush Pandey</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
